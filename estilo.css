@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    font-size: 20pt;
+    color: yellowgreen;
+    font-family: 'Dancing Script', cursive;
+    background-image: url("./inverno.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    box-shadow: 2px 2px 4px black;
+    background-color: rgba(255, 255, 255, 0.20);
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    left: 600px;
+}
